@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://preeminent-daffodil-308d8a.netlify.app/sitemap.xml
